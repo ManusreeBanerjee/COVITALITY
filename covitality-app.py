@@ -7,7 +7,6 @@ import pickle as pkl
 import plotly
 import plotly.graph_objects as go
 from csv import writer
-from tabulate import tabulate
 from sklearn.preprocessing import MinMaxScaler
 scal=MinMaxScaler()
 #Load the saved model
