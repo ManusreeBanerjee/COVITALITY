@@ -4,7 +4,6 @@ import sklearn
 import pandas as pd
 import numpy as np
 import pickle as pkl
-import plotly.express as px
 import plotly.graph_objects as go
 from csv import writer
 from tabulate import tabulate
